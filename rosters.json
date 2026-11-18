@@ -1,0 +1,569 @@
+{
+  "servers": [
+    {
+      "car_content": {
+        "audi_s3_2008": {
+          "bytes": 112079654,
+          "files": 85
+        },
+        "bz_viper_gt_hennessey": {
+          "bytes": 476947093,
+          "files": 251
+        },
+        "chevrolet_corvette_c7": {
+          "bytes": 157854,
+          "files": 1
+        },
+        "civic_eg6_track": {
+          "bytes": 165889907,
+          "files": 115
+        },
+        "hk51_p1_spec_ee8": {
+          "bytes": 76702154,
+          "files": 94
+        },
+        "hk51_p1_spec_mr2": {
+          "bytes": 215060,
+          "files": 1
+        },
+        "hk51_p1_spec_rx8": {
+          "bytes": 252921,
+          "files": 1
+        },
+        "iku_mitsubishi_lancer_evo_6_gra": {
+          "bytes": 260504,
+          "files": 1
+        },
+        "ixa_mustang_gt350r_19": {
+          "bytes": 270307893,
+          "files": 474
+        },
+        "mazda_2": {
+          "bytes": 119834733,
+          "files": 54
+        },
+        "mazda_miata_spec_m": {
+          "bytes": 130607,
+          "files": 1
+        },
+        "prvvy_e30_widebody_4rotor_tt": {
+          "bytes": 270138,
+          "files": 1
+        },
+        "rbms_honda_s2k_js": {
+          "bytes": 202379954,
+          "files": 106
+        },
+        "sat_ion06": {
+          "bytes": 249491,
+          "files": 1
+        },
+        "subaru_wrx_2022_sti_aero_400hp": {
+          "bytes": 210446,
+          "files": 1
+        },
+        "tnt_hv_bmw_e36": {
+          "bytes": 173270122,
+          "files": 78
+        },
+        "xdc23_nissan_skyline_r34": {
+          "bytes": 70227010,
+          "files": 114
+        },
+        "yumex_subaru_brz": {
+          "bytes": 310174165,
+          "files": 78
+        }
+      },
+      "car_count": 18,
+      "cars": [
+        "prvvy_e30_widebody_4rotor_tt",
+        "sat_ion06",
+        "mazda_2",
+        "hk51_p1_spec_ee8",
+        "civic_eg6_track",
+        "yumex_subaru_brz",
+        "bz_viper_gt_hennessey",
+        "chevrolet_corvette_c7",
+        "subaru_wrx_2022_sti_aero_400hp",
+        "rbms_honda_s2k_js",
+        "xdc23_nissan_skyline_r34",
+        "iku_mitsubishi_lancer_evo_6_gra",
+        "mazda_miata_spec_m",
+        "hk51_p1_spec_rx8",
+        "hk51_p1_spec_mr2",
+        "audi_s3_2008",
+        "ixa_mustang_gt350r_19",
+        "tnt_hv_bmw_e36"
+      ],
+      "cars_missing_from_content": [],
+      "layout": "pk_tail_of_the_dragon_7ol",
+      "server": "cm1",
+      "track": "pk_tail_of_the_dragon",
+      "track_version": "1.2"
+    },
+    {
+      "car_content": {
+        "audi_s3_2008": {
+          "bytes": 112079654,
+          "files": 85
+        },
+        "bz_viper_gt_hennessey": {
+          "bytes": 476947093,
+          "files": 251
+        },
+        "chevrolet_corvette_c7": {
+          "bytes": 157854,
+          "files": 1
+        },
+        "civic_eg6_track": {
+          "bytes": 165889907,
+          "files": 115
+        },
+        "hk51_p1_spec_ee8": {
+          "bytes": 76702154,
+          "files": 94
+        },
+        "hk51_p1_spec_mr2": {
+          "bytes": 215060,
+          "files": 1
+        },
+        "hk51_p1_spec_rx8": {
+          "bytes": 252921,
+          "files": 1
+        },
+        "iku_mitsubishi_lancer_evo_6_gra": {
+          "bytes": 260504,
+          "files": 1
+        },
+        "ixa_mustang_gt350r_19": {
+          "bytes": 270307893,
+          "files": 474
+        },
+        "mazda_2": {
+          "bytes": 119834733,
+          "files": 54
+        },
+        "mazda_miata_spec_m": {
+          "bytes": 130607,
+          "files": 1
+        },
+        "prvvy_e30_widebody_4rotor_tt": {
+          "bytes": 270138,
+          "files": 1
+        },
+        "rbms_honda_s2k_js": {
+          "bytes": 202379954,
+          "files": 106
+        },
+        "sat_ion06": {
+          "bytes": 249491,
+          "files": 1
+        },
+        "subaru_wrx_2022_sti_aero_400hp": {
+          "bytes": 210446,
+          "files": 1
+        },
+        "tnt_hv_bmw_e36": {
+          "bytes": 173270122,
+          "files": 78
+        },
+        "xdc23_nissan_skyline_r34": {
+          "bytes": 70227010,
+          "files": 114
+        },
+        "yumex_subaru_brz": {
+          "bytes": 310174165,
+          "files": 78
+        }
+      },
+      "car_count": 18,
+      "cars": [
+        "prvvy_e30_widebody_4rotor_tt",
+        "sat_ion06",
+        "mazda_2",
+        "hk51_p1_spec_ee8",
+        "civic_eg6_track",
+        "yumex_subaru_brz",
+        "bz_viper_gt_hennessey",
+        "chevrolet_corvette_c7",
+        "subaru_wrx_2022_sti_aero_400hp",
+        "rbms_honda_s2k_js",
+        "xdc23_nissan_skyline_r34",
+        "iku_mitsubishi_lancer_evo_6_gra",
+        "mazda_miata_spec_m",
+        "hk51_p1_spec_rx8",
+        "hk51_p1_spec_mr2",
+        "audi_s3_2008",
+        "ixa_mustang_gt350r_19",
+        "tnt_hv_bmw_e36"
+      ],
+      "cars_missing_from_content": [],
+      "layout": "pk_tail_of_the_dragon_2way",
+      "server": "cm2",
+      "track": "pk_tail_of_the_dragon",
+      "track_version": "1.2"
+    },
+    {
+      "car_content": {
+        "adl_proam_180sx": {
+          "bytes": 185538548,
+          "files": 92
+        },
+        "adl_proam_1m": {
+          "bytes": 305230075,
+          "files": 141
+        },
+        "adl_proam_350z": {
+          "bytes": 250789657,
+          "files": 86
+        },
+        "adl_proam_400z": {
+          "bytes": 232239753,
+          "files": 78
+        },
+        "adl_proam_718": {
+          "bytes": 244174683,
+          "files": 84
+        },
+        "adl_proam_a80": {
+          "bytes": 261242451,
+          "files": 84
+        },
+        "adl_proam_c5": {
+          "bytes": 426076539,
+          "files": 120
+        },
+        "adl_proam_e36": {
+          "bytes": 304481727,
+          "files": 142
+        },
+        "adl_proam_e46": {
+          "bytes": 356006646,
+          "files": 95
+        },
+        "adl_proam_fc": {
+          "bytes": 356806984,
+          "files": 103
+        },
+        "adl_proam_foxbody": {
+          "bytes": 300861700,
+          "files": 110
+        },
+        "adl_proam_gt86": {
+          "bytes": 222088840,
+          "files": 104
+        },
+        "adl_proam_r31_wagon": {
+          "bytes": 284265083,
+          "files": 89
+        },
+        "adl_proam_r34": {
+          "bytes": 242583428,
+          "files": 87
+        },
+        "adl_proam_rtr": {
+          "bytes": 357159384,
+          "files": 129
+        },
+        "adl_proam_s13": {
+          "bytes": 574145667,
+          "files": 175
+        },
+        "adl_proam_s14": {
+          "bytes": 243231299,
+          "files": 108
+        },
+        "adl_proam_s15": {
+          "bytes": 423173052,
+          "files": 97
+        },
+        "adl_proam_sn95": {
+          "bytes": 200913836,
+          "files": 91
+        },
+        "adl_proam_ws6": {
+          "bytes": 207622783,
+          "files": 79
+        }
+      },
+      "car_count": 20,
+      "cars": [
+        "adl_proam_1m",
+        "adl_proam_e36",
+        "adl_proam_e46",
+        "adl_proam_c5",
+        "adl_proam_foxbody",
+        "adl_proam_rtr",
+        "adl_proam_sn95",
+        "adl_proam_fc",
+        "adl_proam_350z",
+        "adl_proam_r34",
+        "adl_proam_180sx",
+        "adl_proam_s13",
+        "adl_proam_s14",
+        "adl_proam_s15",
+        "adl_proam_r31_wagon",
+        "adl_proam_400z",
+        "adl_proam_ws6",
+        "adl_proam_718",
+        "adl_proam_gt86",
+        "adl_proam_a80"
+      ],
+      "cars_missing_from_content": [],
+      "layout": "pk_tail_of_the_dragon_5tn",
+      "server": "cm3",
+      "track": "pk_tail_of_the_dragon",
+      "track_version": "1.2"
+    },
+    {
+      "car_content": {
+        "bmw_1m": {
+          "bytes": 150039,
+          "files": 1
+        },
+        "bmw_m3_e30_drift": {
+          "bytes": 197260,
+          "files": 1
+        },
+        "bmw_m3_e30_dtm": {
+          "bytes": 218361,
+          "files": 1
+        },
+        "bmw_m3_e92_drift": {
+          "bytes": 171331,
+          "files": 1
+        },
+        "bmw_m3_e92_s1": {
+          "bytes": 165187,
+          "files": 1
+        },
+        "ferrari_458_gt2": {
+          "bytes": 276782,
+          "files": 1
+        },
+        "ks_audi_a1s1": {
+          "bytes": 148132,
+          "files": 1
+        },
+        "ks_audi_r8_plus": {
+          "bytes": 166231,
+          "files": 1
+        },
+        "ks_ford_mustang_2015": {
+          "bytes": 155234,
+          "files": 1
+        },
+        "ks_lamborghini_huracan_gt3": {
+          "bytes": 206902,
+          "files": 1
+        },
+        "ks_lotus_72d": {
+          "bytes": 299477,
+          "files": 1
+        },
+        "ks_mazda_miata": {
+          "bytes": 183012,
+          "files": 1
+        },
+        "ks_mazda_rx7_tuned": {
+          "bytes": 195069,
+          "files": 1
+        },
+        "ks_mercedes_190_evo2": {
+          "bytes": 216145,
+          "files": 1
+        },
+        "ks_nissan_370z": {
+          "bytes": 164326,
+          "files": 1
+        },
+        "ks_nissan_gtr_gt3": {
+          "bytes": 227714,
+          "files": 1
+        },
+        "ks_nissan_skyline_r34": {
+          "bytes": 199004,
+          "files": 1
+        },
+        "ks_porsche_718_boxster_s_pdk": {
+          "bytes": 169038,
+          "files": 1
+        },
+        "ks_porsche_911_gt3_rs": {
+          "bytes": 165465,
+          "files": 1
+        },
+        "ks_ruf_rt12r_awd": {
+          "bytes": 155520,
+          "files": 1
+        },
+        "ks_toyota_ae86_drift": {
+          "bytes": 204820,
+          "files": 1
+        },
+        "ks_toyota_gt86": {
+          "bytes": 174518,
+          "files": 1
+        },
+        "ks_toyota_supra_mkiv_drift": {
+          "bytes": 203220,
+          "files": 1
+        },
+        "ks_toyota_supra_mkiv_tuned": {
+          "bytes": 184576,
+          "files": 1
+        },
+        "lotus_elise_sc": {
+          "bytes": 147809,
+          "files": 1
+        }
+      },
+      "car_count": 25,
+      "cars": [
+        "ks_audi_r8_plus",
+        "ks_audi_a1s1",
+        "bmw_1m",
+        "bmw_m3_e30_dtm",
+        "bmw_m3_e92_s1",
+        "ferrari_458_gt2",
+        "ks_ford_mustang_2015",
+        "ks_lamborghini_huracan_gt3",
+        "ks_lotus_72d",
+        "lotus_elise_sc",
+        "ks_mazda_miata",
+        "ks_mazda_rx7_tuned",
+        "ks_mercedes_190_evo2",
+        "ks_nissan_370z",
+        "ks_nissan_gtr_gt3",
+        "ks_nissan_skyline_r34",
+        "ks_porsche_718_boxster_s_pdk",
+        "ks_porsche_911_gt3_rs",
+        "ks_ruf_rt12r_awd",
+        "ks_toyota_supra_mkiv_tuned",
+        "bmw_m3_e30_drift",
+        "bmw_m3_e92_drift",
+        "ks_toyota_ae86_drift",
+        "ks_toyota_supra_mkiv_drift",
+        "ks_toyota_gt86"
+      ],
+      "cars_missing_from_content": [],
+      "layout": "main",
+      "server": "cm4",
+      "track": "vf_i29_speedway",
+      "track_version": "1.1.2"
+    },
+    {
+      "car_content": {
+        "matsuri_mayhem_bmw_e36": {
+          "bytes": 95360121,
+          "files": 119
+        },
+        "matsuri_mayhem_bmw_e46_wagon": {
+          "bytes": 176867043,
+          "files": 133
+        },
+        "matsuri_mayhem_bmw_m3_e92": {
+          "bytes": 142107942,
+          "files": 102
+        },
+        "matsuri_mayhem_chevrolet_corvette": {
+          "bytes": 98410374,
+          "files": 103
+        },
+        "matsuri_mayhem_chevrolet_corvette_c5": {
+          "bytes": 120345304,
+          "files": 137
+        },
+        "matsuri_mayhem_ford_mustang_foxbody_foureye": {
+          "bytes": 148844833,
+          "files": 159
+        },
+        "matsuri_mayhem_mazda_rx7": {
+          "bytes": 357918268,
+          "files": 165
+        },
+        "matsuri_mayhem_nissan_350z": {
+          "bytes": 78842146,
+          "files": 100
+        },
+        "matsuri_mayhem_nissan_laurel_c33": {
+          "bytes": 179648148,
+          "files": 128
+        },
+        "matsuri_mayhem_nissan_silvia_180sx_rps13": {
+          "bytes": 125155973,
+          "files": 132
+        },
+        "matsuri_mayhem_nissan_silvia_bn_s13": {
+          "bytes": 138183632,
+          "files": 89
+        },
+        "matsuri_mayhem_nissan_silvia_s14_kouki": {
+          "bytes": 99192017,
+          "files": 112
+        },
+        "matsuri_mayhem_nissan_silvia_s15": {
+          "bytes": 135111382,
+          "files": 119
+        },
+        "matsuri_mayhem_nissan_skyline_er34": {
+          "bytes": 118362494,
+          "files": 176
+        },
+        "matsuri_mayhem_toyota_altezza_xe10_veilside": {
+          "bytes": 175424842,
+          "files": 125
+        },
+        "matsuri_mayhem_toyota_gt86": {
+          "bytes": 98184746,
+          "files": 137
+        },
+        "matsuri_mayhem_toyota_mark_ii_jzx100": {
+          "bytes": 323701759,
+          "files": 240
+        },
+        "matsuri_mayhem_toyota_soarer": {
+          "bytes": 136356173,
+          "files": 137
+        },
+        "matsuri_mayhem_toyota_supra": {
+          "bytes": 101965527,
+          "files": 178
+        },
+        "matsuri_mayhem_toyota_supra_mk4": {
+          "bytes": 216997286,
+          "files": 98
+        }
+      },
+      "car_count": 20,
+      "cars": [
+        "matsuri_mayhem_bmw_e36",
+        "matsuri_mayhem_bmw_e46_wagon",
+        "matsuri_mayhem_bmw_m3_e92",
+        "matsuri_mayhem_chevrolet_corvette",
+        "matsuri_mayhem_chevrolet_corvette_c5",
+        "matsuri_mayhem_ford_mustang_foxbody_foureye",
+        "matsuri_mayhem_mazda_rx7",
+        "matsuri_mayhem_nissan_350z",
+        "matsuri_mayhem_nissan_laurel_c33",
+        "matsuri_mayhem_nissan_silvia_180sx_rps13",
+        "matsuri_mayhem_nissan_silvia_bn_s13",
+        "matsuri_mayhem_nissan_silvia_s14_kouki",
+        "matsuri_mayhem_nissan_silvia_s15",
+        "matsuri_mayhem_nissan_skyline_er34",
+        "matsuri_mayhem_toyota_altezza_xe10_veilside",
+        "matsuri_mayhem_toyota_gt86",
+        "matsuri_mayhem_toyota_mark_ii_jzx100",
+        "matsuri_mayhem_toyota_soarer",
+        "matsuri_mayhem_toyota_supra",
+        "matsuri_mayhem_toyota_supra_mk4"
+      ],
+      "cars_missing_from_content": [],
+      "layout": "short",
+      "server": "cm5",
+      "track": "vf_i29_speedway",
+      "track_version": "1.1.2"
+    }
+  ]
+}
