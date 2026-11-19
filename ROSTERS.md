@@ -73,7 +73,7 @@ Generated from the live servers by `tools/report_rosters.py`.
 - `adl_proam_gt86`
 - `adl_proam_a80`
 
-## cm4 — vf_i29_speedway / main (track v1.1.2)
+## cm4 — vf_i29_speedway / main (track v1.1.4)
 
 25 cars:
 
@@ -103,7 +103,7 @@ Generated from the live servers by `tools/report_rosters.py`.
 - `ks_toyota_supra_mkiv_drift`
 - `ks_toyota_gt86`
 
-## cm5 — vf_i29_speedway / short (track v1.1.2)
+## cm5 — vf_i29_speedway / short (track v1.1.4)
 
 20 cars:
 
